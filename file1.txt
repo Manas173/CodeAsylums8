@@ -1,2 +1,6 @@
 This is file 1 -
+<<<<<<< HEAD
 This is branch1
+=======
+This is branch 2
+>>>>>>> branch2
